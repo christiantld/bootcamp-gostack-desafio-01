@@ -36,7 +36,7 @@ Criar uma aplicação para armazenar projetos e suas tarefas do zero utilizando 
 ### Comandos para rodar o projeto
 
 `yarn -i` para instalar as dependências.
-`yarn dev` ou `npx nodemon` para iniciar o servidor já com o nodemon
+`yarn start` ou `npx nodemon` para iniciar o servidor já com o nodemon
 
 ---
 
